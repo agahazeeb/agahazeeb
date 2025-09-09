@@ -8,7 +8,7 @@
 ## 🔧 Current Projects
 - **Active Directory Homelab** — Windows Server 2019 DC + Windows 10 client, OU design, and PowerShell script for 1000 bulk users  
 - **Raspberry Pi SOHO Security** — Pi-hole DNS filtering + IDS/IPS (Suricata/Snort) to secure home networks  
-- **Excel/Payroll Automation** — VBA macros for timesheets, payroll rules, and financial reporting  
+
 
 ---
 
@@ -39,7 +39,7 @@
 ## 📂 Featured Repositories
 - 🔑 [Active Directory Homelab](https://github.com/agahazeeb/Active-Directory-Lab-1000-Users-w-PowerShell) *(step-by-step with screenshots & PowerShell)*  
 - 🛡 [Raspberry Pi SOHO Security](#) *(Pi-hole + Suricata IDS/IPS)*  
-- 📊 [Excel Payroll Automation](#) *(attendance & payroll calculations with VBA)*  
+
 
 
 
