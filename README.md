@@ -38,7 +38,7 @@
 
 ## 📂 Featured Repositories
 - 🔑 [Active Directory Homelab](https://github.com/agahazeeb/Active-Directory-Lab-1000-Users-w-PowerShell) *(step-by-step with screenshots & PowerShell)*
-- 🔑 [SOC Homelab] (https://github.com/agahazeeb/Azure-Honeypot-SIEM-Setup-with-Microsoft-Sentinel)
+- 🔑 [SOC Homelab](https://github.com/agahazeeb/Azure-Honeypot-SIEM-Setup-with-Microsoft-Sentinel) *(step-by-step with screenshots)*
 - 🛡 [Raspberry Pi SOHO Security](#) *(Pi-hole + Suricata IDS/IPS)*  
 
 
