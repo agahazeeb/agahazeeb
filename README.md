@@ -2,7 +2,7 @@
 
 💻 IT Support & Cybersecurity Enthusiast | 🎓 Computer Networks Graduate | 🏆 CompTIA ITF+ • A+ • Net+ • Sec+ • (CIOS,CSIS) 
 
-After over a decade leading Finance & Operations, I’m transitioning into IT 
+
 ---
 
 ## 🔧 Current Projects
