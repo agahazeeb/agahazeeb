@@ -37,7 +37,7 @@ After over a decade leading Finance & Operations, I’m transitioning into IT
 ---
 
 ## 📂 Featured Repositories
-- 🔑 [Active Directory Homelab](#) *(step-by-step with screenshots & PowerShell)*  
+- 🔑 [Active Directory Homelab](#https://github.com/agahazeeb/Active-Directory-Lab-1000-Users-w-PowerShell) *(step-by-step with screenshots & PowerShell)*  
 - 🛡 [Raspberry Pi SOHO Security](#) *(Pi-hole + Suricata IDS/IPS)*  
 - 📊 [Excel Payroll Automation](#) *(attendance & payroll calculations with VBA)*  
 
