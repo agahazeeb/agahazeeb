@@ -1,13 +1,14 @@
 ## Hi, I'm Abdul Hazeeb 👋
 
-💻 IT Support & Cybersecurity Enthusiast | 🎓 Computer Networks Graduate | 🏆 CompTIA ITF+ • A+ • Net+ • Sec+ • (CIOS,CSIS) 
+💻 IT Support & Cybersecurity | 🎓 BEng (Hons) Computer Networks | 🏆 CompTIA ITF+ • A+ • Net+ • Sec+ • (CIOS,CSIS) 
 
 
 ---
 
 ## 🔧 Current Projects
-- **Active Directory Homelab** — Windows Server 2019 DC + Windows 10 client, OU design, and PowerShell script for 1000 bulk users  
-- **Raspberry Pi SOHO Security** — Pi-hole DNS filtering + IDS/IPS (Suricata/Snort) to secure home networks  
+- **Active Directory Homelab** — Windows Server 2019 DC + Windows 10 client, OU design, and PowerShell script for 1000 bulk users
+- **SOC Home Lab** - Azure Honeypot, SIEM Setup with Microsoft Sentinel  
+- **Raspberry Pi SOHO Security** — Pi-hole DNS filtering + IDS/IPS (Suricata/Snort) to secure home networks 🚧 Project Status: In Progress 
 
 
 ---
@@ -31,7 +32,7 @@
 ---
 
 ## 🎓 Education
-- **BSc (Hons) Computer Networks** — London Metropolitan University  
+- **BEng (Hons) Computer Networks** — London Metropolitan University  
 - **HND Computing & Systems Development** — Pearson  
 
 ---
@@ -39,7 +40,7 @@
 ## 📂 Featured Repositories
 - 🔑 [Active Directory Homelab](https://github.com/agahazeeb/Active-Directory-Lab-1000-Users-w-PowerShell) *(step-by-step with screenshots & PowerShell)*
 - 🔑 [SOC Homelab](https://github.com/agahazeeb/Azure-Honeypot-SIEM-Setup-with-Microsoft-Sentinel) *(step-by-step with screenshots)*
-- 🛡 [Raspberry Pi SOHO Security](#) *(Pi-hole + Suricata IDS/IPS)*  
+- 🔑 [Raspberry Pi SOHO Security](#) *(Pi-hole + Suricata IDS/IPS)*  🚧 Project Status: In Progress
 
 
 
