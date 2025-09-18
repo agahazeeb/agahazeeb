@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul Hazeeb 👋
 
-💻 IT Support & Cybersecurity | 🎓 BEng (Hons) Computer Networks | 🏆 CompTIA ITF+ • A+ • Net+ • Sec+ • (CIOS,CSIS) 
+💻 IT Support & Cybersecurity | 🎓 BEng (Hons) Computer Networks | 📚 HND Computing & Systems Development | 🏆 CompTIA ITF+ • A+ • Net+ • Sec+ • (CIOS,CSIS) 
 
 
 ---
