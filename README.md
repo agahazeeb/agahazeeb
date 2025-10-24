@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul Hazeeb 👋
 
-💻 IT Support & Cybersecurity | 🎓 BEng (Hons) Computer Networks | 📚 HND Computing & Systems Development | 🏆 CompTIA ITF+ • A+ • Net+ • Sec+ • (CIOS,CSIS) 
+💻 IT Support & Cybersecurity | 🎓 BEng (Hons) Computer Networks | 📚 HND Computing & Systems Development | 🏆 CompTIA ITF+ • A+ • Net+ • Sec+ • (CIOS,CSIS) | Google IT Support Professional Certificate
 
 
 ---
@@ -26,7 +26,8 @@
 - **CompTIA IT Fundamentals+ (ITF+)**  
 - **CompTIA A+**  
 - **CompTIA Network+**  
-- **CompTIA Security+**  
+- **CompTIA Security+**
+- **Google IT Support Professional Certificate**  
 
 
 ---
